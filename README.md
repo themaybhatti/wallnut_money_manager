@@ -1,8 +1,7 @@
-# wallnut_money_manager
-The Application is based on dart language developed in flutter , on one of the most common need to maintain one's personal data about its financial condition including his Income , Expense and Current balance .
-
-Methodology
-IDE : Visual Studio code
-Programming language used : Dart
-For authentication : Firebase authentication methods
-For Storing data : Firebase Firestore cloud storage
+# Wallnut
+The Application is based on dart language developed in flutter , on one of the most common need to maintain one's personal data about its financial condition including his Income , Expense and Current balance .<br>
+<br> <strong>Methodology</strong>
+<br>	IDE : Visual Studio code
+<br>	Programming language used : Dart
+<br>	For authentication : Firebase authentication methods
+<br>  For Storing data : Firebase Firestore cloud storage
